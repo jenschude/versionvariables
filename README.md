@@ -4,7 +4,7 @@ as a proof of concept.
 Usage:
 
 ```sh
-composer require jenschude/version-variables`
+composer require jenschude/version-variables
 ```
 
 In your composer json replace a version string with
