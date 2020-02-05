@@ -1,7 +1,7 @@
 {
     "name": "jenschude/version-variables",
     "type": "composer-plugin",
-    "license": "Apache2",
+    "license": "Apache-2.0",
     "require": {
         "composer-plugin-api": "^1.1"
     },
