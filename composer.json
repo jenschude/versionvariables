@@ -1,0 +1,19 @@
+{
+    "name": "jenschude/version-variables",
+    "type": "composer-plugin",
+    "license": "Apache2",
+    "require": {
+        "composer-plugin-api": "^1.1"
+    },
+    "require-dev": {
+        "composer/composer": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Jenschude\\VersionVariables\\": "src/"
+        }
+    },
+    "extra": {
+        "class": "Jenschude\\VersionVariables\\VersionVariablesPlugin"
+    }
+}
